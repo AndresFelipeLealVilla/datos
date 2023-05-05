@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/datos/static/css/main.a3f9bd0e.css",
-    "main.js": "/datos/static/js/main.bdcf5fdb.js",
+    "main.js": "/datos/static/js/main.07201f73.js",
     "static/media/ubertema.png": "/datos/static/media/ubertema.8ae0c3a2fbaf43e1e1f4.png",
     "static/media/insta.png": "/datos/static/media/insta.1a725292862f461e7917.png",
     "static/media/autos.jpg": "/datos/static/media/autos.eadfe90322619c2efca6.jpg",
@@ -44,7 +44,6 @@
     "static/media/uber142.PNG": "/datos/static/media/uber142.86d483b28618f544ea78.PNG",
     "static/media/uber162.PNG": "/datos/static/media/uber162.679ca8a55b3b1a6a4075.PNG",
     "static/media/cliente32.PNG": "/datos/static/media/cliente32.e7fa099dda763970d36c.PNG",
-    "static/media/Under.jpg": "/datos/static/media/Under.bf7ae4954b11d3407d1b.jpg",
     "static/media/insta24.PNG": "/datos/static/media/insta24.6ce1fd08fc6b30eba36a.PNG",
     "static/media/card282.PNG": "/datos/static/media/card282.8639742174e236333f96.PNG",
     "static/media/card182.PNG": "/datos/static/media/card182.3581fbb0af8c14f4a26e.PNG",
@@ -284,10 +283,10 @@
     "static/media/cliente13.PNG": "/datos/static/media/cliente13.00b31cb5af8027037468.PNG",
     "index.html": "/datos/index.html",
     "main.a3f9bd0e.css.map": "/datos/static/css/main.a3f9bd0e.css.map",
-    "main.bdcf5fdb.js.map": "/datos/static/js/main.bdcf5fdb.js.map"
+    "main.07201f73.js.map": "/datos/static/js/main.07201f73.js.map"
   },
   "entrypoints": [
     "static/css/main.a3f9bd0e.css",
-    "static/js/main.bdcf5fdb.js"
+    "static/js/main.07201f73.js"
   ]
 }
